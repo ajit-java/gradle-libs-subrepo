@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ajit-java/utilities.git
+	branch = master
+	commit = f8baf3a29db0e8a1f7e0c27a4a33f1514d6a1b4e
+	parent = 2edf3be8a5084ac4fd88df31210e020d257ae7ad
+	method = merge
+	cmdver = 0.4.3
