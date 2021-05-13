@@ -3,10 +3,10 @@
  */
 package gradle.libs.subrepo.app;
 
-import gradle.libs.subrepo.list.LinkedList;
+import gradle.libs.utilities.LinkedList;
 
-import static gradle.libs.subrepo.utilities.StringUtils.join;
-import static gradle.libs.subrepo.utilities.StringUtils.split;
+import static gradle.libs.utilities.StringUtils.join;
+import static gradle.libs.utilities.StringUtils.split;
 import static gradle.libs.subrepo.app.MessageUtils.getMessage;
 
 public class App {
