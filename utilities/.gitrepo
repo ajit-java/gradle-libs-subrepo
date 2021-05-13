@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/ajit-java/utilities.git
 	branch = master
-	commit = f8baf3a29db0e8a1f7e0c27a4a33f1514d6a1b4e
-	parent = 2edf3be8a5084ac4fd88df31210e020d257ae7ad
+	commit = e559ed449281d3b1eb628357e8f23d103c25ceab
+	parent = f0d4547025a193fa3782a7974bf7978162e7e014
 	method = merge
 	cmdver = 0.4.3
