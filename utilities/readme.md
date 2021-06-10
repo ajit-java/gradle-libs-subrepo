@@ -1,1 +1,1 @@
-readme
+This is string utils project, which can be used a library in any gradle project. 
